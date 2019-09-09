@@ -1,1 +1,1 @@
-ADD_LIBRARY(MedianStruct MedianStruct.cpp)
+ADD_LIBRARY(MedianStruct MedianStruct.h MedianStruct.cpp)
